@@ -1,26 +1,26 @@
-**TODO App**
+TODO App
 Welcome to the TODO App! This application helps you keep track of your tasks effortlessly. Whether you're managing daily chores, project tasks, or just a simple to-do list, our app has got you covered.
 
-**Features**
+Features
 Task Management:
 
-**Add new tasks quickly and easily.**
+Add new tasks quickly and easily.
 View all tasks in a clear and organized manner.
 Edit Tasks:
 
-**Edit any task at any time to make updates or corrections.**
+Edit any task at any time to make updates or corrections.
 Easily modify task details, including title and description.
 Mark Tasks as Finished:
 
-**Mark tasks as completed with a single click.**
+Mark tasks as completed with a single click.
 Visually distinguish between completed and pending tasks.
 Delete Tasks:
 
-**Remove tasks that are no longer needed.**
+Remove tasks that are no longer needed.
 Simple deletion with confirmation to prevent accidental removal.
 View Pending Tasks:
 
-**Filter and view a list of all pending tasks.**
+Filter and view a list of all pending tasks.
 Stay focused by seeing only what still needs to be done.
 Getting Started
 Installation
@@ -28,7 +28,7 @@ Clone the Repository:
 
 bash
 Copy code
-https://github.com/AfrozeSVU/TO-DO-APP.git
+git clone https://github.com/yourusername/todo-app.git
 cd todo-app
 Install Dependencies:
 
@@ -52,8 +52,9 @@ Use the "Delete" button to remove a task permanently.
 View Pending Tasks:
 Click the "Pending Tasks" button to see all tasks that are not yet completed.
 Technologies Used
-**Frontend**: HTML, CSS,Bootstrap, JavaScript,
- 
+Frontend: HTML, CSS, JavaScript (React)
+Backend: Node.js, Express
+Database: MongoDB (or any preferred database)
 Version Control: Git
 Contribution
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
@@ -65,3 +66,4 @@ Push to the branch: git push origin feature-branch-name
 Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
